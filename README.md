@@ -18,11 +18,3 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,c,docker,aws,cs,express,cpp,flask,github,githubactions,angular,azure,jest,linux,nextjs,nodejs,react,supabase,tailwind,mongodb,opencv,postgres,tensorflow,threejs,terraform,vscode&perline=10" alt="Skills" />
   </a>
 </p>
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/brokoli777"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brokoli777&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true"/></a>
-<a href="https://github.com/brokoli777"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokoli777&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&layout=compact&langs_count=8&card_width=320" /></a>
-</p>
-
